@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#marquee-cont {
+    background: #f4f4f4;
+    margin: 20px;
+  }
+  #marquee-cont marquee {
+    margin-top: 5px;
+    font-size: 1.5rem;
+  }
+  #marquee-cont button {
+    font-size: 1.5rem;
+  }
+  #marquee-news {
+    
+    background: #cc0d0d;
+    padding: 5px;
+  }
+  #ticker-title{
+    border:none;
+    padding:5px 20px;
+    background:#cc0d0d;
+    color:white;
+  }
+  #ticker-title:focus{
+    outline:none;
+  }
